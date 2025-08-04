@@ -1,0 +1,6 @@
+/* style.css criado apenas para resetar os estilos do body. */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
